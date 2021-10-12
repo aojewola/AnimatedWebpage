@@ -332,9 +332,9 @@ textarea {
 
 /**
    * Correct the cursor style of increment and decrement buttons in Chrome.
-   */
+   kj*/
 
-[type="number"]::-webkit-inner-spin-button,
+j [type="number"]::-webkit-inner-spin-button,
 [type="number"]::-webkit-outer-spin-button {
     height: auto;
 }
